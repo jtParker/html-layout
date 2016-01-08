@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.leftColumn {
+  height: 800px;
+  width: 33%;
+  padding: 0;
+  margin: 0;
+  background-color: #4A90E2;
+  float: left;
+}
+
+.middleColumn {
+  height: 800px;
+  width: 33%;
+  padding: 0;
+  margin: 0;
+  background-color: #50E3C2;
+  display: inline-block;
+}
+
+.rightColumn {
+  height: 800px;
+  width: 33%;
+  padding: 0;
+  margin: 0;
+  background-color: #B8E986;
+  float: right;
+}
+
+.imagePlaceholder {
+  height: 200px;
+  width: 364.969px;
+  padding: 0;
+  margin: 600px 0 0 0;
+  background-color: red;
+  float:right;
+}
+
+.textAlign {
+  color: white;
+  font-family: sans-serif;
+  margin: 80px 100px 50px 125px;
+}
