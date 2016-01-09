@@ -44,5 +44,6 @@ html, body {
 .textAlign {
   color: white;
   font-family: sans-serif;
-  margin: 80px 100px 50px 125px;
+  margin: 90px 75px 50px 80px;
+  font-size: 25px;
 }
