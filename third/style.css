@@ -1,0 +1,64 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.maindiv{
+  height: 100px;
+  width: 1000px;
+  padding: 0;
+  margin: 0;
+  background-color: #D8D8D8;
+  z-index: 1;
+}
+
+.first {
+  height: 200px;
+  width: 1000px;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+}
+
+.second {
+  height: 100px;
+  width: 1000px;
+  padding: 0;
+  margin: 0;
+  background-color: #4A90E2
+}
+
+.third {
+  height: 100px;
+  width: 1000px;
+  padding: 0;
+  margin: 0;
+  background-color: #50E3C2;
+}
+
+.fourth {
+  height: 100px;
+  width: 1000px;
+  padding: 0;
+  margin: 0;
+  background-color: #B8E986;
+}
+
+.fifth {
+  height: 100px;
+  width: 1000px;
+  padding: 0;
+  margin: 0;
+  background-color: #F8E71C;
+}
+
+.headerbox {
+  height: 75px;
+  width:75px;
+  padding: 0;
+  margin: 12.5
+  background-color: #4A90E2;
+  z-index: 10;
+}
